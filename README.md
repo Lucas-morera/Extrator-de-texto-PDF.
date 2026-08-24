@@ -13,11 +13,11 @@ O **Extrator de Texto PDF** nasceu da necessidade de simplificar a extração de
 ## 🛠️ Tecnologias Utilizadas
 
 ### **Front-end**
-*   **React** (Interface de usuário dinâmica e responsiva)
+*   **React** (Interface de usuário dinâmica e responsiva) [Vite React 19.2.8]
 *   Bibliotecas modernas para estilização e consumo de API
 
 ### **Back-end**
-*   **Java & Spring Boot** (API RESTful de alta performance)
+*   **Java & Spring Boot** (API RESTful de alta performance) (Java 17)
 *   Bibliotecas especializadas em leitura e manipulação de arquivos PDF
 
 ---
