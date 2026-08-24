@@ -20,7 +20,7 @@ O **Extrator de Texto PDF** nasceu da necessidade de simplificar a extração de
 *   **Java & Spring Boot** (API RESTful de alta performance) (Java 17)
 *   Bibliotecas especializadas em leitura e manipulação de arquivos PDF
 
-### "Banco de dados"
+### **Banco de dados**
 * Postgresql 18
 ---
 
